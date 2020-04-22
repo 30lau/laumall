@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/laumall.iml" filepath="$PROJECT_DIR$/.idea/laumall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laumall-order/laumall-order.iml" filepath="$PROJECT_DIR$/laumall-order/laumall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laumall-product/laumall-product.iml" filepath="$PROJECT_DIR$/laumall-product/laumall-product.iml" />
     </modules>
   </component>
 </project>
